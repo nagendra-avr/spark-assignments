@@ -1,17 +1,17 @@
-###Spark Assignment #1
+### Spark Assignment #1
 
 In this assignment, you will be required to load the movie lens dataset.
 
 The movie lens dataset can be downloaded [here](https://grouplens.org/datasets/movielens/).
 
-###Input:
+### Input:
 
 movieId, title,        genres
 `1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy`
 
 
 
-###Output:
+### Output:
 
 | movieId  |  title |  year |  genre |
 | ------------ | ------------ | ------------ | ------------ |
