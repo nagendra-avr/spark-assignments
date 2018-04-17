@@ -1,4 +1,4 @@
-### Spark Assignment #1
+## Spark Assignment #1
 
 In this assignment, you will be required to load the movie lens dataset and perform the following transformation.
 
